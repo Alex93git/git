@@ -108,6 +108,14 @@ git version 2.x.x
 
 ![Image](/Users/aleksejhristuk/Downloads/Image.png)
 
+! [image] (https://github.com/Alex93git/git/blob/7fdad74ac06a97976ab9e1568f936e9d5138c0e7/Image-2.png)
+
+
+
+https://github.com/Alex93git/git/blob/7fdad74ac06a97976ab9e1568f936e9d5138c0e7/Image-2.png
+
+
+
 ### Что такое хеш. Хеширование коммитов
 
 **Хеширование** (от англ. *hash*, «рубить», «крошить», «мешанина») — это способ преобразовать набор данных и получить их «отпечаток» (англ. *fingerprint*).
